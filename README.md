@@ -149,40 +149,6 @@ Expanding my technical knowledge through practical software projects.
 
 ---
 
-## 📂 Portfolio Roadmap
-
-| Project | Focus | Status |
-|---|---|---|
-| DocuExtract AI | Intelligent document processing | Planned |
-| MedFlow CRM | Healthcare management | Planned |
-| LeadMind AI | AI-powered lead qualification | Planned |
-| Nexus AI | Agent orchestration | Planned |
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
 
 <h3 align="center">
 Always learning. Always building.
